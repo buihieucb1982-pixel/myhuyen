@@ -4,6 +4,9 @@
 
 A beautiful, modern, and fully responsive personal portfolio website for a Creative UI/UX Designer and Digital Graphics student. The website features a dreamy aesthetic with pink & white colors, smooth animations, and interactive productivity tools.
 
+
+![image alt](https://github.com/buihieucb1982-pixel/myhuyen/blob/ad25aa77d62a84442aeb9bfe6ab5dc7d9e11508f/z7813013384849_250c7eab2cef6ca7c94c0f2f8a4921da.jpg)
+
 ## 🎨 Design Features
 
 ### Visual Design
