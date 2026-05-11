@@ -7,6 +7,8 @@ A beautiful, modern, and fully responsive personal portfolio website for a Creat
 
 ![image alt](https://github.com/buihieucb1982-pixel/myhuyen/blob/ad25aa77d62a84442aeb9bfe6ab5dc7d9e11508f/z7813013384849_250c7eab2cef6ca7c94c0f2f8a4921da.jpg)
 
+![image alt](https://github.com/buihieucb1982-pixel/myhuyen/blob/ed960fb98462e40824e51e153fe75a00b95cc438/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-05-11%20135731.png)
+
 ## 🎨 Design Features
 
 ### Visual Design
