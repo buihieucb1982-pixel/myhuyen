@@ -1,3 +1,9 @@
+Đường link repository trên GitHub
+   https://github.com/buihieucb1982-pixel/myhuyen.git
+
+Đường link website đã triển khai
+   https://buihieucb1982-pixel.github.io/myhuyen/
+   
 # 🌙✨ Nguyễn Thị Khánh Huyền - Personal Portfolio Websit
 A beautiful, modern, and fully responsive personal portfolio website for a Creative UI/UX Designer and Digital Graphics student. The website features a dreamy aesthetic with pink & white colors, smooth animations, and interactive productivity tools.
 
