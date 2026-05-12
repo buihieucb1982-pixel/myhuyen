@@ -25,6 +25,8 @@ và thân thiện với người dùng.
 
 # 🖼 Graphic Design Project
 ![image alt](https://github.com/buihieucb1982-pixel/myhuyen/blob/193362a25cba6b6632aaff5b6089ee8495ed4365/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-05-11%20140649.png)
+
+
 2. GIAI ĐOẠN 1 — NGHIÊN CỨU Ý TƯỞNG
 
    # Giai đoạn 1 — Nghiên cứu ý tưởng
